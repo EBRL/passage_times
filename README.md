@@ -1,5 +1,4 @@
 Passage Times
 =============
 
-This repo is for populating redcaps with Passage Times statistics.
-
+Note actual passage time code is held in EBRL/workflows now
